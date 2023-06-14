@@ -601,7 +601,7 @@ const get_profiles = async function(gender, cards_container, loader_icon) {
         console.log(error);
     }
 };
-get_profiles("male", female_cards_wraper, "preloaderFemale");
+get_profiles("female", female_cards_wraper, "preloaderFemale");
 ////////////////////////////////SLIDER CODE///////////////////////////////////////////
 function in__home_v3() {
     let splides = $(".in__home_v3");

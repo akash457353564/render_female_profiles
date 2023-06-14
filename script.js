@@ -57,7 +57,7 @@ const get_profiles = async function (gender, cards_container, loader_icon) {
   }
 };
 
-get_profiles("male", female_cards_wraper, "preloaderFemale");
+get_profiles("female", female_cards_wraper, "preloaderFemale");
 
 ////////////////////////////////SLIDER CODE///////////////////////////////////////////
 
